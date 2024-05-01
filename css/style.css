@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.margin{
+    margin: 1rem;
+}
+.padding{
+    padding-top: 3rem;
+}
+.row div{
+    width: 140px !important;
+    height: 140px !important;
+}
+.fizzbuzz{
+    background-color: #F0466F;
+}
+.fizz{
+    background-color: #0AD6A0;
+}
+.buzz{
+    background-color: #FFD166;
+}
+.n{
+    background-color: #1389B2;
+}
